@@ -1,3 +1,8 @@
+---
+name: artifact_slides
+description: Formatting guidelines for .slides artifacts — slide decks and slide outlines. Includes title-body relationship rules, image requirements, markdown formatting, and required follow-up workflow.
+---
+
 ## Artifact Instructions — `.slides` Extension
 
 
